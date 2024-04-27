@@ -1,0 +1,6 @@
+@ErrorLogProblem_HostAddress = http://localhost:5032
+
+GET {{ErrorLogProblem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
